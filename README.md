@@ -1,16 +1,15 @@
 <h2 align="left">Hi 👋! My name is Solar and I'm a PaperMc developer, from the UK</h2>
 
-###
-
-<img align="left" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
-<br clear="both">
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/SolarBAM404/count.svg?"  />
 </div>
+
+<br clear="both">
+
+###
+
+<img align="left" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
