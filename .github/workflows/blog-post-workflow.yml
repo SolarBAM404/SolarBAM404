@@ -16,4 +16,4 @@ jobs:
       - name: Pull in dev.to posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://stackoverflow.com/feeds/user19366180"
+          feed_list: "https://stackoverflow.com/feeds/user/19366180"
