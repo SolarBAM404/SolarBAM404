@@ -6,7 +6,7 @@
 ### <div align="center">I'm Solar, a computer science student, PaperMc dev and ASP.NET dev 👨‍💻 Serious programing since 2020🚀</div>  
   
 
-- 🔭 I’m currently working on [Apollo Launcher](https://github.com/rishavanand/github-profilinator)  
+- 🔭 I’m currently working on [Apollo Launcher](https://github.com/solarbam404/Apollo-Launcher) and [GitBot](https://github.com/solarbam404/GitBot)
   
 
 - 🌱 I’m currently learning Blazor and Android API  
