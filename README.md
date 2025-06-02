@@ -6,14 +6,7 @@
 ### <div align="center">I'm Solar, a computer science student, PaperMc dev and ASP.NET dev 👨‍💻 Serious programing since 2020🚀</div>  
   
 
-- 🔭 I’m currently working on [Apollo Library](https://github.com/SolarBAM404/ApolloLibrary) and [Infection Minigame](https://github.com/SolarBAM404/InfectionMinigame)
-  
-
-- 🌱 I’m currently learning Blazor and Android API  
-  
-
-- ❓ Ask me about anything related to Discord Bots  
-  
+- 🔭 I’m currently working on [Apollo Library](https://github.com/SolarBAM404/ApolloLibrary) and [Infection Minigame](https://github.com/SolarBAM404/InfectionMinigame) 
 
 - ⚡ Fun fact: I love using random mythologies' god names for projects  
   
